@@ -1,0 +1,1 @@
+module.exports = holder.middleware.wares("filter/deliver" , "singledata/user");
